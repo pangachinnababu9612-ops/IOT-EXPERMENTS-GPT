@@ -4,9 +4,9 @@
 #define BLYNK_PRINT Serial
 
 /* Fill in information from Blynk Device Info here */
-#define BLYNK_TEMPLATE_ID "TMPL3x4kzOayN"
-#define BLYNK_TEMPLATE_NAME "LED CONTROL"
-#define BLYNK_AUTH_TOKEN "8SX4vYTY5WnS4CY9M9X6oSeGRDylz3Xh"
+#define BLYNK_TEMPLATE_ID "TMPL3x4OayN"
+#define BLYNK_TEMPLATE_NAME "LED ROL"
+#define BLYNK_AUTH_TOKEN "8SX4vYTY5WnS49X6oSeGRDylz3Xh"
 
 
 #include <ESP8266WiFi.h>
