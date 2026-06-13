@@ -1,14 +1,14 @@
-#define BLYNK_TEMPLATE_ID "TMPL3JkNnV42J"
+#define BLYNK_TEMPLATE_ID "TMPL3Jk42J"
 #define BLYNK_TEMPLATE_NAME "DHT11"
-#define BLYNK_AUTH_TOKEN "jv5PllyFsLTwN-jBaV5L9jfuFSSL5VS-"
+#define BLYNK_AUTH_TOKEN "jv5PllyFsLTwN-jB9jfuFSSL5VS-"
 
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp8266.h>
 #include <DHT.h>
 
-char ssid[] = "sanath";   // Your WiFi name
-char pass[] = "";   // Your WiFi password
+char ssid[] = "gpt";   // Your WiFi name
+char pass[] = "gpt@208";   // Your WiFi password
 
 #define DHTPIN 13
 #define DHTTYPE DHT11
