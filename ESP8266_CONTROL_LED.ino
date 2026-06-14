@@ -27,7 +27,7 @@ void setup()
 {
   // Debug console
   Serial.begin(9600);
-
+  pinMode(12,OUTPUT);
   Blynk.begin(BLYNK_AUTH_TOKEN, ssid, pass);
 }
 
